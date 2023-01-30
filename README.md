@@ -4,8 +4,6 @@
 <p align="center">
 	 CoolRune is a modified variant of Artix with enchanced performance, privacy and productivity.
 	 
-This shell script keeps your system up to date with changes made to CoolRune.
-
 ## How to update CoolRune
 
 . Run these commands.
