@@ -3,14 +3,21 @@
                                                                                                                                       
 <p align="center">
 	 CoolRune is a modified variant of Artix with enchanced performance, privacy and productivity.
+	 
+This shell script keeps your system up to date with changes made to CoolRune.
 
 ## How to update CoolRune
 
 . Run these commands.
 
+# AMD / INTEL
 ```
-su
 curl -LO https://raw.githubusercontent.com/MichaelSebero/CoolRune-Update/main/CoolRune-Update.sh
 sh CoolRune-Update.sh
 ```
-. Updating CoolRune keeps your system up to date with changes made to CoolRune.
+# NVIDIA
+```
+curl -LO https://raw.githubusercontent.com/MichaelSebero/CoolRune-Update/main/CoolRune-NVIDIA-Update.sh
+sh CoolRune-NVIDIA-Update.sh
+```
+. Your computer will restart after the update is over.
