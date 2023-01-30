@@ -10,7 +10,7 @@
 
 ```
 su
-curl -LO https://raw.githubusercontent.com/MichaelSebero/CoolRune-Update/master/CoolRune-Update.sh
+curl -LO https://raw.githubusercontent.com/MichaelSebero/CoolRune-Update/main/CoolRune-Update.sh
 sh CoolRune-Update.sh
 ```
 . Updating CoolRune keeps your system up to date with changes made to CoolRune.
