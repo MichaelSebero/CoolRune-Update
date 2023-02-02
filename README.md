@@ -18,4 +18,3 @@ sh CoolRune-Update.sh
 curl -LO https://raw.githubusercontent.com/MichaelSebero/CoolRune-Update/main/CoolRune-NVIDIA-Update.sh
 sh CoolRune-NVIDIA-Update.sh
 ```
-. Your computer will restart after the update is over.
