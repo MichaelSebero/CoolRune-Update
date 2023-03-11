@@ -4,17 +4,3 @@
 <p align="center">
 	 CoolRune is a Meta-Distribution of Artix Linux with enchanced performance, privacy and productivity.
 	 
-## How to update CoolRune
-
-. Run these commands.
-
-# AMD / INTEL
-```
-curl -LO https://raw.githubusercontent.com/MichaelSebero/CoolRune-Update/main/CoolRune-Update.sh
-sh CoolRune-Update.sh
-```
-# NVIDIA
-```
-curl -LO https://raw.githubusercontent.com/MichaelSebero/CoolRune-Update/main/CoolRune-NVIDIA-Update.sh
-sh CoolRune-NVIDIA-Update.sh
-```
